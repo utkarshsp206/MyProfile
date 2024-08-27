@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Utkarsh Singh </span>
             from <span className="purple"> Prayagraj, India.</span>
             <br />
-            I am undergraduate student of Computer Science and Engineering at Chandigarh University, Mohali.
+            I am a final year undergraduate student of Computer Science and Engineering at Chandigarh University, Mohali.
             <br />
             <br />
             <br />
@@ -19,13 +19,13 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs
+              <ImPointRight /> Reading Books
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Gardening
             </li>
           </ul>
         </blockquote>

@@ -25,10 +25,21 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title1="Generative AI: Prompt Engineering Basics"
+              title1="Data Structures and Performance"
+              title2="UCSanDiego"
+              title3="June 2024"
+              ghLink="https://www.coursera.org/account/accomplishments/verify/G7MVNT5JC8KM"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={bitsOfCode}
+              isBlog={false}
+              title1="Full Stack Software Developer Assessment"
               title2="IBM"
-              title3="Feb 2024"
-              ghLink="https://www.coursera.org/account/accomplishments/verify/DEHS546345ZD?trk=public_profile_see-credential"
+              title3="April 2024"
+              ghLink="https://www.coursera.org/account/accomplishments/verify/67ZYGJCMLDHM"
             />
           </Col>
 
@@ -36,32 +47,21 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title1="Introduction to Microsoft Azure Cloud Services"
-              title2="Microsoft"
-              title3="Feb 2024"
-              ghLink="https://www.coursera.org/account/accomplishments/verify/WCYPQ4WQSH26?trk=public_profile_see-credential"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={bitsOfCode}
-              isBlog={false}
-              title1="Cybersecurity for Everyone"
-              title2="University of Maryland"
-              title3="Jan 2024"
-              ghLink="https://www.coursera.org/account/accomplishments/verify/VP579D9KDDT9?trk=public_profile_see-credential"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={bitsOfCode}
-              isBlog={false}
-              title1="Data Science Professional Certificate"
+              title1="Hands-on Introduction to Linux Commands and Shell Scripting"
               title2="IBM"
-              title3="Sep 2023"
-              ghLink="https://www.coursera.org/account/accomplishments/professional-cert/6VAEYF9TXPYA?trk=public_profile_see-credential"
+              title3="April 2024"
+              ghLink="https://www.coursera.org/account/accomplishments/verify/JRMTB2ZFWT4C"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={bitsOfCode}
+              isBlog={false}
+              title1="Introduction to Agile Development and Scrum"
+              title2="IBM"
+              title3="March 2024"
+              ghLink="https://www.coursera.org/account/accomplishments/verify/TVQRUDBTGZMP"
             />
           </Col>
 
@@ -70,21 +70,10 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title1="Oracle Cloud Infrastructure 2023"
-              title2="Oracle"
-              title3="Dec 2023"
-              ghLink="https://drive.google.com/file/d/1LXezi7rytcU-y0UeGREypn4indwDSZsE/view"
-            />
-          </Col>
-
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={bitsOfCode}
-              isBlog={false}
-              title1="Azure AI Fundamentals"
-              title2="Microsoft"
-              title3="Jul 2023"
-              ghLink="https://drive.google.com/file/d/1R6iG57otXRtZPehoKR5OCqSsjSxBjwIu/view"
+              title1="JavaScript Programming with React, Node & MongoDB"
+              title2="IBM"
+              title3="March 2024"
+              ghLink="https://www.coursera.org/account/accomplishments/specialization/T23E9KBF2856"
             />
           </Col>
         </Row>
